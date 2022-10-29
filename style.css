@@ -1,0 +1,120 @@
+#btn1{
+    width: 300px;
+    height: 100px;
+    background-color: red;
+    font-size: 30px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+#btn1:hover{
+    width: 300px;
+    height: 100px;
+    background-color: red;
+    font-size: 30px;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+#btn2{
+    width: 300px;
+    height: 100px;
+    background-color: green;
+    font-size: 30px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+#btn2:hover{
+    width: 300px;
+    height: 100px;
+    background-color: green;
+    font-size: 30px;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+#btn3{
+    width: 300px;
+    height: 100px;
+    background-color: purple;
+    font-size: 30px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+#btn3:hover{
+    width: 300px;
+    height: 100px;
+    background-color: purple;
+    font-size: 30px;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+#btn4{
+    width: 300px;
+    height: 100px;
+    background-color: maroon;
+    font-size: 30px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+#btn4:hover{
+    width: 300px;
+    height: 100px;
+    background-color: maroon;
+    font-size: 30px;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+#btn5{
+    width: 300px;
+    height: 100px;
+    background-color: blue;
+    font-size: 30px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+#btn5:hover{
+    width: 300px;
+    height: 100px;
+    background-color: blue;
+    font-size: 30px;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+#btn6{
+    width: 300px;
+    height: 100px;
+    background-color: orange;
+    font-size: 30px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+#btn6:hover{
+    width: 300px;
+    height: 100px;
+    background-color: orange;
+    font-size: 30px;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    transition: 0.5s;
+}
